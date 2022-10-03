@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+	
+	background-color: #000040;
+	padding-top:50px;
+}
+
+h1{
+	display:block;
+	color:white;
+	text-align:center;
+	border:#00ff40; 
+	border-width:1px; 
+	border-style:solid;
+}
